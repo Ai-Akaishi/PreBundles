@@ -9,7 +9,10 @@ Datapack just for using Bundle in early 1.17
 # 使い方 / How To Use
 
 ワールドデータのdatapacksに入れてね。  
-Put this in the datapacks folder of your world data.
+Put this in the datapacks folder of your world data.  
+  
+1.17後半で実装予定のアイテムなので、バグや仕様変更がある可能性があります。  
+This item is scheduled to be implemented in the second half of 1.17, so there may be bugs or specification changes.
 
 # レシピ / Recipe
 
