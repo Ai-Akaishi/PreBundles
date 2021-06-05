@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "active": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:leather"
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "minecraft:bundle"
+        ]
+    }
+}
