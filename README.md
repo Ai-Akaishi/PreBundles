@@ -4,7 +4,7 @@ Datapack just for using Bundle in early 1.17
 
 # 動作確認済みバージョン / Verified minecraft versions
 
-- 1.17 Release Candidate 1
+- 1.17
 
 1.17後半で実装予定のアイテムなので、バグや仕様変更がある可能性があります。  
 This item is scheduled to be implemented in the second half of 1.17, so there may be bugs or specification changes.
