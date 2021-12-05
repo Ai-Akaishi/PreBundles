@@ -1,13 +1,14 @@
 # PreBundles
-Datapack just for using Bundle in early 1.17  
-1.17前期にもバンドルを使えるようにするだけのデータパック
+Datapack just for using Bundle in 1.17  
+1.17からバンドルを使えるようにするだけのデータパック
 
 # 動作確認済みバージョン / Verified minecraft versions
 
 - 1.17
+- 1.18
 
-1.17後半で実装予定のアイテムなので、バグや仕様変更がある可能性があります。  
-This item is scheduled to be implemented in the second half of 1.17, so there may be bugs or specification changes.
+1.19で実装予定のアイテムなので、バグや仕様変更がある可能性があります。  
+This item is scheduled to be implemented in 1.19, so there may be bugs or specification changes.
 
 # 使い方 / How To Use
 
