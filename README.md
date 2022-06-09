@@ -4,11 +4,12 @@ Datapack just for using Bundle in 1.17
 
 # 動作確認済みバージョン / Verified minecraft versions
 
-- 1.17
-- 1.18
+- 1.19
+- 1.18.x
+- 1.17.x
 
-1.19で実装予定のアイテムなので、バグや仕様変更がある可能性があります。  
-This item is scheduled to be implemented in 1.19, so there may be bugs or specification changes.
+1.20で実装予定のアイテムなので、バグや仕様変更がある可能性があります。  
+This item is scheduled to be implemented in 1.20, so there may be bugs or specification changes.
 
 # 使い方 / How To Use
 
